@@ -1,23 +1,22 @@
 # Seasoning Life
 
-Introdução
+INTRODUCTION
 
-Bem-vindo ao Seasoning Life!
+Welcome to Seasoning Life!
 
-Este projeto é um site simples criado para exibir uma coleção de receitas básicas, utilizando exclusivamente HTML. O objetivo principal é fornecer uma plataforma clara e acessível para quem procura receitas práticas e fáceis de seguir.
+This project is a simple website created to showcase a collection of basic recipes, using only HTML. The main goal is to provide a clear and accessible platform for those looking for practical and easy-to-follow recipes.
 
-Funcionalidades do Projeto
+PROJECT FEATURES
 
-Exibição de Receitas: O site apresenta uma lista de receitas básicas, cada uma com uma descrição clara e os ingredientes necessários.
-Estrutura Simples: Utiliza apenas HTML para garantir que o site seja leve e de fácil compreensão, ideal para iniciantes em desenvolvimento web.
+Recipe Display: The site features a list of basic recipes, each with a clear description and the necessary ingredients.
+Simple Structure: It uses only HTML to ensure that the site is lightweight and easy to understand, ideal for web development beginners.
+SKILLS DEMONSTRATED
 
-HABILIDADES DEMONSTRADAS
+By completing this project, you will have the opportunity to demonstrate and enhance the following skills:
 
-Ao concluir este projeto, você terá a oportunidade de demonstrar e aprimorar as seguintes habilidades:
-Estruturação de Documentos HTML: Criação e organização de conteúdo em páginas HTML, utilizando tags apropriadas para estruturar texto, listas e links.
-Uso de Semântica HTML: Aplicação de tags semânticas como <header>, <footer>, <main>, <section> , <aside> e <article> para melhorar a acessibilidade e a organização do conteúdo.
-Criação de Layouts Simples: Desenvolvimento de uma página web básica com HTML, sem o uso de CSS ou JavaScript.
+HTML Document Structuring: Creating and organizing content in HTML pages, using appropriate tags to structure text, lists, and links.
+HTML Semantics Usage: Applying semantic tags such as <header>, <footer>, <main>, <section>, <aside>, and <article> to improve accessibility and content organization.
+Simple Layout Creation: Developing a basic web page with HTML, without the use of CSS or JavaScript.
+FINAL REFLECTION
 
-Reflexão Final
-
-Ao final do projeto, você será capaz de refletir sobre como a utilização do HTML pode ser eficiente para a criação de sites simples e funcionais. Esta é uma excelente oportunidade para revisar o que você aprendeu sobre a estruturação de documentos HTML e considerar como você pode expandir este projeto com estilos e funcionalidades adicionais em futuros desenvolvimentos.
+By the end of the project, you will be able to reflect on how HTML can be efficiently used for creating simple and functional websites. This is an excellent opportunity to review what you have learned about HTML document structuring and consider how you can expand this project with styles and additional functionalities in future developments.
